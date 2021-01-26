@@ -1,7 +1,6 @@
 /* Creating the header id(#) style */
 #header{
-    /* text-align: right; */
-    padding: 0 auto 0 80%;
+    text-align: right;
 }
 /* Creting style for heading one (h1) */
 h1 {
