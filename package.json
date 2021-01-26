@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/roncloud20/phonix/issues"
   },
-  "homepage": "https://github.com/roncloud20/phonix#readme"
+  "homepage": "https://github.com/roncloud20/phonix#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }

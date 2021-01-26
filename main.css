@@ -1,3 +1,10 @@
+/* Creating style for the body tag */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: ghostwhite;
+    background: linear-gradient(315deg, transparent 75%, #d45d55 0);
+    
+}
 /* Creating the header id(#) style */
 #header{
     text-align: right;
