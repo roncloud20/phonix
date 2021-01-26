@@ -1,0 +1,16 @@
+/* Creating the header id(#) style */
+#header{
+    /* text-align: right; */
+    padding: 0 auto 0 80%;
+}
+/* Creting style for heading one (h1) */
+h1 {
+    color: blueviolet;
+    margin-bottom: 0%;
+}
+
+/* Creating style for heading two (h2) */
+h2 {
+    color: cadetblue;
+    margin-top: 0%;
+}
