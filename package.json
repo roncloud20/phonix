@@ -1,0 +1,19 @@
+{
+  "name": "phonix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roncloud20/phonix.git"
+  },
+  "author": "Olugbenga Raymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roncloud20/phonix/issues"
+  },
+  "homepage": "https://github.com/roncloud20/phonix#readme"
+}
