@@ -9,3 +9,5 @@ var array = [1,2,3,4,5,6,7,8,9];
 
 // To display the answer
 console.log("answer", _.without(array, 7))
+
+console.log("testing if this is working")
